@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jamesrichford/mobile-app-seed/issues"
   },
-  "homepage": "https://github.com/jamesrichford/mobile-app-seed#readme"
+  "homepage": "https://github.com/jamesrichford/mobile-app-seed#readme",
+  "devDependencies": {
+    "typescript": "^2.2.1"
+  }
 }
